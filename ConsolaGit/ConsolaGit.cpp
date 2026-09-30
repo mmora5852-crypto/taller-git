@@ -4,7 +4,7 @@
 #include <iostream>
 
 int main(){
-        std::cout << "Hola desde el taller" << std::endl;
+        std::cout << "Hola soy Moises y estoy intentando aprender git XD" << std::endl;
         return 0;
 }
 
