@@ -1,0 +1,62 @@
+# --- Visual Studio ---
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sdf
+*.opensdf
+*.vsidx
+*.suo
+
+# --- Carpetas de compilacion ---
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+out/
+
+# --- Artefactos de compilacion MSVC ---
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.recipe
+*.manifest
+*.res
+*.log
+*.tlog
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.vsidx
+
+# --- CMake ---
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# --- Editores ---
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Sistema operativo ---
+Thumbs.db
+desktop.ini
+.DS_Store
